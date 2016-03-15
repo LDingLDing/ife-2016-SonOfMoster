@@ -1,0 +1,8 @@
+body{
+	padding:0;
+	margin:0;
+}
+#demo1,#demo2,#demo3{
+	padding:50px;
+	box-sizing: border-box;
+}
